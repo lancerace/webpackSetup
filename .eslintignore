@@ -1,0 +1,6 @@
+# include any desired file to exclude from eslint rule
+
+# ignore all file in dist directories
+/dist/**
+/webpack.config.js
+/README.md
